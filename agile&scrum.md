@@ -129,7 +129,7 @@ git reset: pulisce tutti il commit da tutte le modifiche che sono state caricate
 
 git reset "hash": ci permette di riprisinare il commit con l'hash dato
 
-git remote add origin "url":  lega l'origine del mio codice a una specifica repo
+git remote add origin "url":  lega l'origine del mio codice a una specifica repo. togliere apostrofi
 
 git push origin dev: mando il mio codice online
 
